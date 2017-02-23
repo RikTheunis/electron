@@ -49,6 +49,7 @@ NSIS staat voor "Nullsoft Scriptable Install System" is een script gestuurde ins
 
 ### process
 
+
 Een proces is een instantie van een computerprogramma dat wordt uitgevoerd. Electron apps die gebruik maken van het [main] en een of meer [renderer] processen zijn eigenlijk meerdere programma's tegelijk aan het uitvoeren.
 
 In Node.js en Electron, elk lopend proces heeft een `proces` object. Dit object is een global that informatie voorziet over, en controle over, het huidige proces. Als een global is het altijd beschikbaar voor applicaties zonder gebruik van `require()`.
